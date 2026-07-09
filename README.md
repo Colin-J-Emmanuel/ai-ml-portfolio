@@ -24,7 +24,7 @@ model has to be *trustworthy*, not just accurate.
 
 ---
 
-### 🔥 Wildfire Survival Forecasting — *flagship*
+### 🔥 Wildfire Survival Forecasting
 [`wildfire-survival-forecasting`](https://github.com/Colin-J-Emmanuel/wildfire-survival-forecasting)
 
 Given only the **first five hours** of a wildfire's behavior, forecast the probability it reaches an
