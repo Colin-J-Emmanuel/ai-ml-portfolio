@@ -1,6 +1,6 @@
 # Hi, I'm Colin Emmanuel 👋
 
-**Computer Science @ Columbia University · Break Through Tech AI Fellowship graduate (Cornell Tech)**
+**Computer Science @ Columbia University · Break Through Tech AI Fellowship 2025-2026 (Cornell Tech)**
 
 I build machine learning systems end-to-end — from framing the problem and engineering features to
 ensembling, calibration, and making the whole thing reproducible. My work spans survival analysis,
