@@ -9,7 +9,7 @@ model has to be *trustworthy*, not just accurate.
 
 - 🔭 Most recent: a top-27% finish in the **WiDS Global Datathon 2026** (wildfire survival forecasting)
 - 🌱 Interests: applied ML, survival analysis, recommender systems, computer vision, NLP
-- 📫 Reach me: **c.j.emmanuel@columbia.edu** · [GitHub](https://github.com/Colin-J-Emmanuel) · [LinkedIn](https://www.linkedin.com/in/) <!-- add your LinkedIn URL -->
+- 📫 Reach me: **c.j.emmanuel@columbia.edu** · [GitHub](https://github.com/Colin-J-Emmanuel) · [LinkedIn](https://www.linkedin.com/in/colin-j-emmanuel/)
 
 ---
 
