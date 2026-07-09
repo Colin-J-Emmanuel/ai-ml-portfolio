@@ -80,7 +80,7 @@ recommendations.
 
 ## 🎯 Background
 
-- **B.S./B.A. Computer Science**, Columbia University
+- **B.A. Computer Science**, Columbia University
 - **Break Through Tech AI Fellowship** (Cornell Tech), completed — ML Foundations + two industry AI Studios (Ursa Space Systems; WiDS Datathon)
 
 ---
