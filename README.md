@@ -89,6 +89,5 @@ recommendations.
 
 I'm open to opportunities in machine learning and data science.
 
-- 📧 **c.j.emmanuel@columbia.edu**
 - 💼 **LinkedIn:** [@Colin J. Emmanuel](https://www.linkedin.com/in/colin-j-emmanuel/)
 - 🐙 **GitHub:** [@Colin-J-Emmanuel](https://github.com/Colin-J-Emmanuel)
